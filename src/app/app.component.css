@@ -1,0 +1,10 @@
+.respuestaTrue{
+    color: #007d62;
+    text-align: center;
+    font-weight: bold;
+}
+.respuestaFalse{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
